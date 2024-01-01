@@ -1,0 +1,10 @@
+C:\Users\horai\Desktop\db winform 실습\20230925_실습 (first_win)\20230925_실습 (first_win)\bin\Debug\20230925_실습 (first_win).exe.config
+C:\Users\horai\Desktop\db winform 실습\20230925_실습 (first_win)\20230925_실습 (first_win)\bin\Debug\20230925_실습 (first_win).exe
+C:\Users\horai\Desktop\db winform 실습\20230925_실습 (first_win)\20230925_실습 (first_win)\bin\Debug\20230925_실습 (first_win).pdb
+C:\Users\horai\Desktop\db winform 실습\20230925_실습 (first_win)\20230925_실습 (first_win)\obj\Debug\20230925_실습 (first_win).csproj.AssemblyReference.cache
+C:\Users\horai\Desktop\db winform 실습\20230925_실습 (first_win)\20230925_실습 (first_win)\obj\Debug\_20230925_실습__first_win_.Form1.resources
+C:\Users\horai\Desktop\db winform 실습\20230925_실습 (first_win)\20230925_실습 (first_win)\obj\Debug\_20230925_실습__first_win_.Properties.Resources.resources
+C:\Users\horai\Desktop\db winform 실습\20230925_실습 (first_win)\20230925_실습 (first_win)\obj\Debug\20230925_실습 (first_win).csproj.GenerateResource.cache
+C:\Users\horai\Desktop\db winform 실습\20230925_실습 (first_win)\20230925_실습 (first_win)\obj\Debug\20230925_실습 (first_win).csproj.CoreCompileInputs.cache
+C:\Users\horai\Desktop\db winform 실습\20230925_실습 (first_win)\20230925_실습 (first_win)\obj\Debug\20230925_실습 (first_win).exe
+C:\Users\horai\Desktop\db winform 실습\20230925_실습 (first_win)\20230925_실습 (first_win)\obj\Debug\20230925_실습 (first_win).pdb

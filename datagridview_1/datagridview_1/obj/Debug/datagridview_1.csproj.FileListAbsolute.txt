@@ -1,0 +1,12 @@
+C:\Users\horai\Desktop\db winform 실습\datagridview_1\datagridview_1\bin\Debug\datagridview_1.exe.config
+C:\Users\horai\Desktop\db winform 실습\datagridview_1\datagridview_1\bin\Debug\datagridview_1.exe
+C:\Users\horai\Desktop\db winform 실습\datagridview_1\datagridview_1\bin\Debug\datagridview_1.pdb
+C:\Users\horai\Desktop\db winform 실습\datagridview_1\datagridview_1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\horai\Desktop\db winform 실습\datagridview_1\datagridview_1\obj\Debug\datagridview_1.csproj.AssemblyReference.cache
+C:\Users\horai\Desktop\db winform 실습\datagridview_1\datagridview_1\obj\Debug\datagridview_1.Form1.resources
+C:\Users\horai\Desktop\db winform 실습\datagridview_1\datagridview_1\obj\Debug\datagridview_1.Properties.Resources.resources
+C:\Users\horai\Desktop\db winform 실습\datagridview_1\datagridview_1\obj\Debug\datagridview_1.csproj.GenerateResource.cache
+C:\Users\horai\Desktop\db winform 실습\datagridview_1\datagridview_1\obj\Debug\datagridview_1.csproj.CoreCompileInputs.cache
+C:\Users\horai\Desktop\db winform 실습\datagridview_1\datagridview_1\obj\Debug\datagridview_1.csproj.CopyComplete
+C:\Users\horai\Desktop\db winform 실습\datagridview_1\datagridview_1\obj\Debug\datagridview_1.exe
+C:\Users\horai\Desktop\db winform 실습\datagridview_1\datagridview_1\obj\Debug\datagridview_1.pdb

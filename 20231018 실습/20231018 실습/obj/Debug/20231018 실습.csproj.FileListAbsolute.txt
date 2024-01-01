@@ -1,0 +1,30 @@
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\20231018 실습.exe.config
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\20231018 실습.exe
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\20231018 실습.pdb
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\obj\Debug\20231018 실습.csproj.AssemblyReference.cache
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\obj\Debug\_20231018_실습.Properties.Resources.resources
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\obj\Debug\20231018 실습.csproj.GenerateResource.cache
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\obj\Debug\20231018 실습.csproj.CoreCompileInputs.cache
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\obj\Debug\20231018 실습.exe
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\obj\Debug\20231018 실습.pdb
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Buffers.dll
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Memory.dll
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Text.Json.dll
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.ValueTuple.dll
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Buffers.xml
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Memory.xml
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Text.Json.xml
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\bin\Debug\System.ValueTuple.xml
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\obj\Debug\20231018 실습.csproj.CopyComplete
+C:\Users\horai\Desktop\db winform 실습\20231018 실습\20231018 실습\obj\Debug\_20231018_실습.Form1.resources

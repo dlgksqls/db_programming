@@ -1,0 +1,16 @@
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\bin\Debug\DB_기말과제_5585006.exe.config
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\bin\Debug\DB_기말과제_5585006.exe
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\bin\Debug\DB_기말과제_5585006.pdb
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\obj\Debug\DB_기말과제_5585006.csproj.AssemblyReference.cache
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\obj\Debug\DB_기말과제_5585006.LoginForm.resources
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\obj\Debug\DB_기말과제_5585006.Properties.Resources.resources
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\obj\Debug\DB_기말과제_5585006.RegistrationForm.resources
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\obj\Debug\DB_기말과제_5585006.csproj.GenerateResource.cache
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\obj\Debug\DB_기말과제_5585006.csproj.CoreCompileInputs.cache
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\obj\Debug\DB_기말과제_5585006.csproj.CopyComplete
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\obj\Debug\DB_기말과제_5585006.exe
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\obj\Debug\DB_기말과제_5585006.pdb
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\obj\Debug\DB_기말과제_5585006.Manager.resources
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\obj\Debug\DB_기말과제_5585006.Seller.resources
+C:\Users\horai\Desktop\DB_기말과제_5585006\DB_기말과제_5585006\obj\Debug\DB_기말과제_5585006.Member.resources
